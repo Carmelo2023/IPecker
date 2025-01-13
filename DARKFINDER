@@ -1,0 +1,11 @@
+pkg update
+
+pkg upgrade -y
+
+pkg gît
+
+https://github.com/CarmeloFinder/DARKFINDER
+
+cd DARKFINDER
+
+bash DARKFINDER.sh
